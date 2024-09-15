@@ -71,4 +71,4 @@ License 📝
 This project is open-source and available under the MIT License.
 
 Contact 📧
-For any queries, feel free to reach out via email: your-kiran100112@gmail.com.com
+For any queries, feel free to reach out via email: kiran100112@gmail.com
